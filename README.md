@@ -23,6 +23,7 @@ Minecraft Paper plugin for enhanced sleep mechanics - skip the night when a conf
 - Bossbar showing sleep progress
 - Phantom prevention (`spawn_phantoms` game rule)
 - Admin command `/sleep reload|status`
+- Straw beds (Minecraft 26.3+) count as sleeping, just like regular beds
 
 ## Examples
 

@@ -1,5 +1,16 @@
 # SleepPlugin Changelog
 
+## Unreleased
+
+### Improvements
+- Added support for Minecraft 26.3 (Wilderness Bound)
+- Straw beds count toward the sleep percentage like regular beds (Paper fires the standard bed enter/leave events for them)
+
+### Technical Changes
+- Compile against Paper API 26.3 (`api-version` stays 26.1, so the same jar runs on 26.1-26.3)
+
+---
+
 ## Version 1.0.4 (2026-08-06)
 
 ### New Features
